@@ -44,6 +44,7 @@ namespace library
             Console.WriteLine();
 
             Console.WriteLine();
+            Console.Write("Строка -> ");
             string str = library_int.Conver(arr);
             Console.WriteLine(str);
             Console.WriteLine();
